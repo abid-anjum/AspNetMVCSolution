@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E83D9D49-207F-46D7-B965-F45FC36845BB}|">
+  <MonoDevelop.Ide.ItemProperties.AbidAsp.NetProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbidAsp.NetProject" expanded="True">
+            <Node name="AbidAsp.NetProject" expanded="True">
+              <Node name="App_Start" expanded="True">
+                <Node name="RouteConfig.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Student" expanded="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
